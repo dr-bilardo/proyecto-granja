@@ -1,1 +1,2 @@
-la cantidad de pollitos son 10
+la cantidad de pollitos son 15
+
